@@ -25,5 +25,7 @@ Shows different stages of processing (original, edge-detected, contour-drawn) on
 This project addresses the challenge of automating geometric shape recognition — a fundamental part of computer vision and AR.
 It serves as a foundation for developing assistive AR tools that can analyze visual input and provide users with context, feedback, or learning opportunities.
 
+![image alt](https://github.com/mshraiden/Real-Time-Object-Detector/blob/9cd8b470031ce3dab33fb6a33cbb0f2f191cd3ea/Extra/cubeTest.png)
+
 # 🧾 Installation & Setup
 Check out the requirements for running here
