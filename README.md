@@ -3,6 +3,8 @@
 This project performs real-time recognition of geometric shapes using a live camera feed and displays information about these shapes through a Tkinter-based GUI. It integrates computer vision (OpenCV) and graphical interaction to simulate an augmented reality (AR) experience — where users can visualize shape recognition live and learn about each detected shape.
 This system forms the first step toward a larger AR-assisted design concept, such as smart glasses that can identify and provide context for shapes in the real world — useful for education, creative design, and engineering visualization.
 
+![image alt](https://github.com/mshraiden/Real-Time-Object-Detector/blob/e64ed8ea30cab0971a60aac694347148fe3a66b8/Extra/output.png)
+
 # 🧩 Features
 Real-Time Detection
 Detects and identifies shapes (circle, triangle, square, rectangle, pentagon, etc.) from a webcam feed.
