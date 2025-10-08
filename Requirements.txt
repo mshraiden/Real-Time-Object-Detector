@@ -1,9 +1,9 @@
-# 1️⃣ Install Dependencies
+#1️⃣ Install Dependencies
 Run the following commands in your terminal:
 pip install opencv-python
 pip install numpy
 pip install tkinter
 pip install keyboard
 
-2️⃣ Run the Program
+#2️⃣ Run the Program
 python main.py
