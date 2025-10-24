@@ -100,6 +100,7 @@ def getcontours(img, imgcontour):
     for cnt in contours:
         area = cv2.contourArea(cnt)
         min_area = cv2.getTrackbarPos("Area", "Parameters")  # Adjustable minimum area
+        
         if area > min_area:
             cv2.drawContours(imgcontour, cnt, -1, (255, 0, 255), 7)
             perimeter = cv2.arcLength(cnt, True)
@@ -147,3 +148,4 @@ while True:
     cv2.imshow("Result", imgstack)  # Display stacked images
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
+
