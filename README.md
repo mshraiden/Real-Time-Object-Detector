@@ -7,7 +7,7 @@ This system forms the first step toward a larger AR-assisted design concept, suc
 
 # 🧩 Features
 Real-Time Detection
-Detects and identifies shapes (circle, triangle, square, rectangle, pentagon, etc.) from a webcam feed.
+Detects and identifies shapes (circle, triangle, square, rectangle, pentagon, etc.) from a webcam to feed.
 
 Augmented Visualization
 Highlights contours, counts edges, and labels shapes directly on the live video output.
